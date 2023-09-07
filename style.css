@@ -69,12 +69,6 @@ ul,li{
     width: 50%;
 }
 
-.coco:hover {
-    content: url(../assignment1/images/cafe1.jpg);
-    width: 100%;
-  
-    transition: 2s;
-}
 
 .btn
 {
